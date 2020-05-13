@@ -1,4 +1,5 @@
-aaaa
+a
+aaa
 king
 king1
 merge
